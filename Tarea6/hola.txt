@@ -1,0 +1,22 @@
+<Alumnos>
+<Alumno NIA="1">
+<Nombre>Sergio</nombre>
+<Apellidos>Rascon</Apellidos>
+<Genero>H</Genero>
+<FechaNacimiento>18/10/2003</FechaNacimiento>
+<Ciclo curso="1" Grupo="B">DAM</Ciclo>
+</Alumno>
+<Alumno NIA="2">
+<Nombre>Ruben</nombre>
+<Apellidos>Garcia</Apellidos>
+<Genero>H</Genero>
+<FechaNacimiento>1/02/2005</FechaNacimiento>
+<Ciclo curso="2" Grupo="A">DAM</Ciclo>
+</Alumno>
+<Alumno NIA="3">
+<Nombre>Laura</nombre>
+<Apellidos>Martinez</Apellidos>
+<Genero>M</Genero>
+<FechaNacimiento>20/06/2010</FechaNacimiento>
+<Ciclo curso="2" Grupo="G">DAM</Ciclo>
+</alumno>
